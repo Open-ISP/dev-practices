@@ -12,7 +12,7 @@
 
 ## Small features or changes: single PR
 
-Small features or changes should be proposed using a single PR, which can detail the
+Small features or changes should be proposed using a single PR, which details the
 problem being addressed or the enhancement made, what is being done and why. A good rule of thumb is
 that if the work for the PR has only taken a couple of sessions or days, then it’s best
 just to propose via a single PR.
