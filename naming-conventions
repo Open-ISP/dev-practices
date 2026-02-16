@@ -1,0 +1,14 @@
+# Project naming conventions
+
+# Region and subregion naming
+
+- Refer to NEM regions with `region` or `region_id` for variables or column names. In docs,
+  the use of `regions`, `NEM regions`, or `NEM region` is at the discretion of the author.
+- Refer to ISP subregions with `subregion` or `subregion_id` for variables or column names.
+  In docs, the use of `subregions`, `ISP subregions`, or `ISP subregion` is at the
+  discretion of the author.
+- Refer to renewable energy zones with `rez` or `rez_id` for variables or column names.
+  In docs, the use of `REZ`, `REZs`, or `Renewable Energy Zones` is at the
+  discretion of the author.
+- The `_id` suffix should always (and only) be used when referring to the naming IDs
+  of regions, subregions, and rezs.
