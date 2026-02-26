@@ -165,7 +165,7 @@ Adopting this approach provides:
 |---------|-------------|
 | **Data validation** | Invalid inputs are caught early with clear error messages |
 | **Workflow flexibility** | Users can provide simplified datasets with only relevant tables/columns |
-| **Robustness** | Functions handle edge cases gracefully (e.g., removing all generators for greenfield optimisation) |
+| **Robustness** | Functions handle edge cases gracefully (e.g., removing all existing generators for greenfield optimisation) |
 | **Documentation foundation** | Schemas serve as the basis for comprehensive table documentation |
 | **Code clarity** | Reduced defensive checks improve readability and maintainability |
 
