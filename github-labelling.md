@@ -22,6 +22,7 @@ The `type` keyword describes the **nature** of an issue or PR. These labels are 
 | `type: documentation` | Improvements or additions to documentation |
 | `type: feature`       | A new feature or request                   |
 | `type: question`      | Further information is requested           |
+| `type: technical-debt`      | Code could be improved           |\
 
 An issue should always have exactly one `type` label assigned to it to keep things clear and simple. If an issue seems like it could span multiple types, consider whether it could be broken up into smaller more precise chunks, or choose the most appropriate `type` only.
 
